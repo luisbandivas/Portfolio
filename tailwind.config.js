@@ -4,7 +4,10 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        playfair: ['"Playfair Display"', "serif"],
+        playfair: ["Playfair Display", "serif"],
+        helvetica: ["helvetica", "sans-serif"],
+        "helvetica-bold": ["Helvetica-bold", "sans-serif"],
+        "helvetica-bold": ["Helvetica-bold", "sans-serif"],
       },
     },
   },
